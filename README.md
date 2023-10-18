@@ -11,4 +11,4 @@ This repository includes two versions of the Yottixel code:
 - [Yottixel Paper](https://www.sciencedirect.com/science/article/pii/S1361841520301213)
 - [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/kimia-net/)
 ### Disclaimer
-Rhazes Lab does not own the code in this repository. This code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's hostory. We welcome questions and comments.
+Rhazes Lab does not own the code in this repository. This code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments.
