@@ -21,3 +21,5 @@ More comments and guidelines are provided within the code files.
 Rhazes Lab does not own the code in this repository. This code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments.
 
 Before using or cloning this repository, please read the [End User Agreement](agreement.pdf).
+
+**This technlogy is patented (see [patent 1](https://patents.google.com/patent/US10628736B2/en?inventor=tizhoosh&oq=tizhoosh), [patent 2](https://patents.google.com/patent/US20200176102A1/en?inventor=tizhoosh&oq=tizhoosh)). All commercial rights are owned exclusively by [Huron Digital Pathology](https://www.hurondigitalpathology.com/).**
